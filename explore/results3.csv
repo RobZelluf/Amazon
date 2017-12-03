@@ -1,0 +1,353 @@
+Name,Passes and iterations
+Data sizes,"[1000, 5000, 10000, 20000, 40000]"
+Number of topics,"[10, 30, 50, 100]"
+Not above,"[0.1, 0.5, 0.9]"
+Chunksize,"[500, 1000, 2000, 4000]"
+Passes,"[1, 5, 10, 20]"
+Iterations,"[100, 200, 400]"
+
+Data size,Topics,no_above,Chunksize,Passes,Iteration
+1000,30,0.5,2000,5,200
+
+Topic 1,Topic 2,Topic 3,Topic 4,Topic 5,Topic 6,Topic 7,Topic 8,Topic 9,Topic 10,Topic 11,Topic 12,Topic 13,Topic 14,Topic 15,Topic 16,Topic 17,Topic 18,Topic 19,Topic 20,Topic 21,Topic 22,Topic 23,Topic 24,Topic 25,Topic 26,Topic 27,Topic 28,Topic 29,Topic 30
+hub,outlet,switch,advertised,work,switch,switch,wire,switch,switch,switch,switch,switch,switch,switch,switch,switch,switch,switch,home,switch,switch,switch,switch,switch,wire,switch,switch,work,switch
+light,wave,wink,worked,great,light,wire,switch,light,work,light,wire,ge,wa,wire,work,work,work,wire,light,installed,screw,work,light,light,work,light,led,great,way
+great,controller,work,work,easy,work,neutral,work,wa,great,hub,light,work,light,light,light,wa,great,neutral,control,box,plate,device,work,turn,way,work,light,product,ge
+switch,module,wave,great,hub,like,light,wa,work,unit,wa,dimmer,like,work,house,home,wire,awesome,light,house,issue,wire,easy,wave,work,turn,outlet,blue,switch,wire
+install,box,ge,product,smartthings,wave,wa,great,wire,wiring,work,use,light,wave,product,box,zwave,hub,work,flawlessly,work,work,install,great,little,dimmer,thing,like,issue,setup
+work,work,light,install,install,toggle,box,light,outlet,light,need,easy,doe,hub,installation,wire,dimmer,smart,wave,wa,wire,face,pretty,use,way,house,box,work,wave,wa
+easy,light,controller,wink,wink,unit,home,easy,hub,wire,install,bulb,control,wire,neutral,great,thing,light,easy,installation,recommended,use,price,easy,box,older,dimmer,wave,wink,work
+simple,fit,wa,easy,alexa,normal,work,box,turn,wa,smart,box,add,control,outdoor,wa,wink,smartthings,wa,device,highly,like,reliable,blue,wave,ge,great,device,wire,light
+problem,switch,turn,connected,setup,click,white,install,great,problem,use,way,wave,turn,wiring,product,great,issue,good,turn,connects,wa,zwave,doe,installed,neutral,home,neutral,hub,love
+smartthings,home,vera,price,samsung,installation,connected,expected,smart,wave,neutral,installed,turn,easy,work,easy,paired,thing,need,switch,echo,receptacle,use,wa,great,defective,room,box,wall,neutral
+
+Data size,Topics,no_above,Chunksize,Passes,Iteration
+5000,30,0.5,2000,5,200
+
+Topic 1,Topic 2,Topic 3,Topic 4,Topic 5,Topic 6,Topic 7,Topic 8,Topic 9,Topic 10,Topic 11,Topic 12,Topic 13,Topic 14,Topic 15,Topic 16,Topic 17,Topic 18,Topic 19,Topic 20,Topic 21,Topic 22,Topic 23,Topic 24,Topic 25,Topic 26,Topic 27,Topic 28,Topic 29,Topic 30
+advertised,switch,work,work,switch,wa,switch,work,little,light,bought,controller,switch,switch,product,belkin,switch,wemo,device,working,wifi,wemo,light,wink,wi,app,outlet,outlet,switch,lamp
+wa,hub,great,firmware,wire,work,support,time,software,turn,month,heater,wire,ge,easy,app,link,wa,network,worked,help,app,switch,wa,fi,work,plug,plug,device,room
+timer,smartthings,hub,updated,load,connect,wa,brand,switch,christmas,reliable,switch,box,wa,great,product,work,device,wifi,month,good,echo,insteon,pump,iphone,io,dot,device,ha,turn
+exactly,lighting,easy,dimmer,need,time,work,firmware,alarm,set,ve,wa,light,ago,use,ifttt,tp,wifi,router,stopped,connect,amazon,led,control,wa,time,work,button,apple,light
+light,price,smartthings,wa,way,money,product,update,great,alexa,issue,work,neutral,hot,love,password,doe,location,home,power,time,work,click,hub,time,device,power,item,product,home
+cool,light,install,product,power,trying,hour,look,expensive,use,unit,light,wa,total,work,work,like,switch,wa,unit,switch,set,use,wave,work,update,use,wave,screw,alexa
+problem,wa,adt,level,ground,finally,amazon,wemo,panel,tree,configure,use,rule,garage,set,wifi,address,update,module,reset,ipad,device,perfect,time,firmware,use,ha,plugged,size,fan
+work,control,perfectly,unit,light,tried,customer,like,work,home,quit,space,work,house,expected,wa,constantly,connection,power,ha,need,switch,purchasing,lighting,use,year,socket,work,thing,house
+thing,outdoor,wink,ha,neutral,worked,tech,random,control,love,winter,time,install,returned,timer,support,home,connecting,time,work,long,alexa,blue,connectivity,light,little,excellent,internet,negative,love
+unit,work,setup,failure,box,buy,way,watt,buy,phone,especially,zwave,wave,way,water,reach,ve,like,unit,far,work,plug,appliance,ge,longer,great,wall,controlled,ge,great
+
+Data size,Topics,no_above,Chunksize,Passes,Iteration
+10000,30,0.5,2000,5,200
+
+Topic 1,Topic 2,Topic 3,Topic 4,Topic 5,Topic 6,Topic 7,Topic 8,Topic 9,Topic 10,Topic 11,Topic 12,Topic 13,Topic 14,Topic 15,Topic 16,Topic 17,Topic 18,Topic 19,Topic 20,Topic 21,Topic 22,Topic 23,Topic 24,Topic 25,Topic 26,Topic 27,Topic 28,Topic 29,Topic 30
+firmware,like,belkin,work,fan,outlet,remote,price,amazing,easy,life,echo,cord,unit,light,product,light,excellent,etekcity,work,light,switch,wa,lamp,wemo,switch,switch,hub,ifttt,remote
+update,good,device,wa,click,plug,signal,home,switch,set,switch,love,extension,link,christmas,working,switch,work,product,great,turn,wire,work,room,app,light,design,work,office,battery
+ha,nice,wireless,time,upstairs,button,range,piece,io,use,fi,light,foot,reset,tree,customer,turn,product,perfect,product,lamp,wa,thing,control,device,wa,use,setup,set,outlet
+year,decoration,channel,exactly,work,power,program,quality,best,button,wi,turn,device,switch,control,worked,door,great,absolutely,easy,use,box,got,living,wifi,rule,thing,wa,water,use
+week,cool,ac,money,hook,wall,downstairs,automation,fun,convenient,security,amazon,sight,access,use,support,awesome,apple,area,advertised,room,neutral,holiday,turn,network,way,brand,home,sunset,room
+working,idea,unit,doe,adt,plugged,control,good,like,love,work,alexa,line,tp,outlet,month,heater,need,thank,alexa,bed,instruction,password,remote,phone,need,big,smartthings,expected,lighting
+worked,work,furniture,little,highly,unit,ve,useful,touch,super,deal,room,bulky,separate,great,day,home,store,recommend,set,home,light,working,having,work,power,adapter,easy,kid,wall
+problem,charm,limited,product,recommend,socket,number,wa,work,work,need,set,reliably,point,outside,wa,control,buy,stop,perfectly,house,white,try,use,switch,like,like,smart,tv,control
+month,stuff,wa,described,fantastic,product,different,time,reprogram,wa,programmable,plug,vera,desk,outdoor,service,dark,slow,buy,good,able,install,fine,floor,connect,box,plug,wink,timer,reach
+far,thing,need,waste,great,receiver,use,technology,moved,install,big,use,ready,smart,house,review,transmitter,thanks,helpful,doe,bedroom,line,took,outlet,router,turn,bulb,google,smartphone,power
+
+Data size,Topics,no_above,Chunksize,Passes,Iteration
+20000,30,0.5,2000,5,200
+
+Topic 1,Topic 2,Topic 3,Topic 4,Topic 5,Topic 6,Topic 7,Topic 8,Topic 9,Topic 10,Topic 11,Topic 12,Topic 13,Topic 14,Topic 15,Topic 16,Topic 17,Topic 18,Topic 19,Topic 20,Topic 21,Topic 22,Topic 23,Topic 24,Topic 25,Topic 26,Topic 27,Topic 28,Topic 29,Topic 30
+alexa,connect,wemo,home,work,working,switch,instruction,time,light,plug,control,outlet,recommend,little,turn,unit,homekit,schedule,ha,switch,device,outlet,easy,review,wa,outlet,lamp,switch,link
+echo,wi,app,dot,great,month,hub,service,set,turn,smart,remote,plug,highly,bit,light,good,apple,phone,battery,light,wifi,tv,set,wa,work,power,room,button,tp
+work,fi,switch,cool,product,worked,bulb,customer,power,remote,light,home,belkin,best,set,timer,product,siri,time,signal,wire,app,energy,setup,password,tried,remote,living,turn,kasa
+amazon,time,device,voice,advertised,awesome,work,money,like,room,christmas,socket,wall,wion,wa,love,price,koogeek,app,product,wa,network,like,use,product,time,plugged,ifttt,setting,work
+app,io,router,command,doe,ve,light,waste,sunset,lamp,tree,nice,device,program,fantastic,set,purchase,idevices,turn,range,box,phone,usage,work,account,support,plug,use,app,app
+great,connection,update,automation,like,week,smartthings,follow,ve,use,turn,phone,use,wish,bulky,home,work,work,timer,cord,outdoor,connected,worth,wa,update,worked,strip,wa,set,iphone
+use,hour,wa,heater,exactly,far,add,product,rule,house,control,controlled,block,product,product,use,happy,ipad,function,foot,house,doe,scheduling,great,read,return,control,haven,time,android
+love,internet,firmware,control,expected,got,doe,help,software,bedroom,use,use,like,multiple,great,time,better,iphone,work,pump,installed,neo,use,install,day,setup,use,friend,iphone,fine
+smart,reset,wifi,simple,described,year,junk,trouble,connectivity,bed,wa,device,design,wonderful,work,house,purchased,monitor,coffee,band,need,smartphone,feature,product,people,device,apartment,forward,scene,router
+super,device,setup,integration,convenient,buy,way,time,reset,love,home,smart,cover,ihome,big,like,perfectly,connected,morning,issue,install,download,number,app,bought,able,floor,table,step,wireless
+
+Data size,Topics,no_above,Chunksize,Passes,Iteration
+40000,30,0.5,2000,5,200
+
+Topic 1,Topic 2,Topic 3,Topic 4,Topic 5,Topic 6,Topic 7,Topic 8,Topic 9,Topic 10,Topic 11,Topic 12,Topic 13,Topic 14,Topic 15,Topic 16,Topic 17,Topic 18,Topic 19,Topic 20,Topic 21,Topic 22,Topic 23,Topic 24,Topic 25,Topic 26,Topic 27,Topic 28,Topic 29,Topic 30
+app,device,wa,light,alexa,product,integration,hour,price,switch,work,needed,update,money,wa,unit,power,wifi,turn,set,support,easy,minute,item,wire,plug,wi,love,good,feature
+device,belkin,instruction,turn,smart,recommend,range,trying,convenient,light,great,downloaded,firmware,tablet,working,apple,strip,network,home,app,product,work,password,super,switch,outlet,fi,remote,far,sunset
+wemo,usb,set,room,plug,awesome,ihome,review,best,wa,alexa,recommended,issue,bed,worked,homekit,button,connect,light,turn,customer,set,le,purchase,box,smart,camera,quality,hard,rule
+link,port,minute,lamp,echo,highly,4ghz,problem,worth,dimmer,product,future,week,user,got,tuya,fast,device,use,timer,service,setup,took,happy,neutral,socket,connected,product,work,sunrise
+tp,ha,command,house,amazon,excellent,wireless,spent,good,like,google,pleased,ha,waste,work,pack,surge,plug,like,easy,tech,install,brand,product,light,use,security,control,device,start
+kasa,charge,time,love,app,cool,ghz,gave,expensive,installed,home,bulb,review,coffee,time,koogeek,press,router,control,phone,email,use,10,wa,white,wall,configure,handy,application,app
+setup,phone,app,use,work,purchasing,5ghz,know,area,wall,doe,stuff,ve,iphone,day,siri,protector,work,house,control,sent,wa,fan,exactly,install,size,nest,thing,bad,time
+phone,like,setup,great,dot,hook,function,connectivity,bought,way,perfectly,job,month,friendly,fine,cable,outage,connection,thing,schedule,company,great,20,described,wiring,small,configured,buy,reach,amazing
+android,design,took,living,control,pretty,click,gift,buy,hub,hub,appliance,new,apps,tried,scene,packaging,wemo,energy,home,help,advertised,wish,sync,blue,plugged,stay,tan,server,slow
+wa,product,follow,bedroom,voice,intended,mac,figure,husband,bulb,buy,free,problem,etekcity,bought,channel,gadget,mini,remotely,time,replacement,like,junk,fantastic,work,like,terrible,access,high,ap
+
+Data size,Topics,no_above,Chunksize,Passes,Iteration
+40000,30,0.1,2000,5,200
+
+Topic 1,Topic 2,Topic 3,Topic 4,Topic 5,Topic 6,Topic 7,Topic 8,Topic 9,Topic 10,Topic 11,Topic 12,Topic 13,Topic 14,Topic 15,Topic 16,Topic 17,Topic 18,Topic 19,Topic 20,Topic 21,Topic 22,Topic 23,Topic 24,Topic 25,Topic 26,Topic 27,Topic 28,Topic 29,Topic 30
+wire,instruction,apple,wemo,hub,good,thing,support,timer,update,skill,life,advertised,lamp,perfectly,expected,socket,connect,recommend,minute,bought,voice,working,dimmer,install,unit,reset,power,port,network
+usb,download,homekit,link,buying,far,fan,customer,schedule,dot,getting,button,ifttt,house,worked,code,mini,android,highly,wi,buy,command,day,rule,excellent,perfect,ve,strip,access,connect
+neutral,follow,iphone,tp,block,doe,cool,service,away,room,ordered,program,sunset,room,google,space,awesome,fine,definitely,fi,best,amazon,month,led,box,fast,brand,belkin,camera,tried
+fit,simple,charger,kasa,need,price,remote,review,feature,living,little,easier,integration,bedroom,exactly,couldn,nice,tablet,price,took,second,bulb,week,doe,installed,tuya,pair,surge,internet,hour
+box,direction,koogeek,amazon,plan,quality,convenient,account,function,firmware,trouble,click,sunrise,bed,christmas,heater,item,coffee,breeze,connected,order,google,worked,way,installation,big,issue,plugged,need,setting
+white,downloaded,siri,air,paired,better,pretty,email,house,amazon,difficult,pack,smartthings,night,happy,arrived,super,connects,fantastic,wemo,price,automation,money,button,electrical,extender,ha,ha,cord,router
+need,group,scene,step,wink,software,want,received,ha,tell,operate,remote,pleased,tv,described,scheduling,size,won,extremely,connection,haven,io,bought,gadget,house,range,ipad,monitor,ac,password
+black,create,activate,insight,future,ihome,useful,sent,remotely,family,connecting,press,porch,dark,purchase,tan,small,issue,garage,router,user,energy,stopped,ha,wall,issue,year,protector,security,trying
+sure,store,enabled,problem,play,recommended,little,charge,allows,ask,convenience,lighting,outside,come,flawlessly,value,design,amazon,reliable,10,got,usage,return,dim,charging,connectivity,offline,outage,unit,try
+walk,forward,machine,setting,compact,supposed,room,replacement,automatically,issue,thanks,programming,min,able,tree,scan,wall,maker,buy,le,far,compatible,ha,know,single,second,band,motion,ha,finally
+
+Data size,Topics,no_above,Chunksize,Passes,Iteration
+40000,30,0.5,2000,5,200
+
+Topic 1,Topic 2,Topic 3,Topic 4,Topic 5,Topic 6,Topic 7,Topic 8,Topic 9,Topic 10,Topic 11,Topic 12,Topic 13,Topic 14,Topic 15,Topic 16,Topic 17,Topic 18,Topic 19,Topic 20,Topic 21,Topic 22,Topic 23,Topic 24,Topic 25,Topic 26,Topic 27,Topic 28,Topic 29,Topic 30
+doe,house,amazon,instruction,described,good,ve,night,price,wall,link,button,timer,password,socket,wi,internet,lamp,network,wemo,remote,voice,working,room,tried,homekit,android,update,far,wire
+advertised,awesome,purchase,minute,play,connection,belkin,energy,life,little,tp,hard,schedule,setting,google,fi,access,power,connect,support,bulb,fan,mini,perfectly,hour,apple,hub,firmware,unit,box
+exactly,super,happy,took,range,quality,review,block,bed,size,camera,click,away,group,perfect,ifttt,morning,plugged,router,customer,different,command,kasa,recommend,connect,automation,user,issue,convenient,neutral
+simple,thing,item,install,extender,ihome,ll,ac,cost,small,security,reset,feature,add,christmas,amazing,having,strip,connected,skill,led,amazon,worked,living,return,integration,iphone,software,old,white
+expected,definitely,buy,download,drop,life,power,air,usage,nice,desk,tuya,ha,ability,seller,ipad,cable,usb,wireless,service,floor,dot,week,excellent,trying,reliable,compatible,problem,io,installation
+recommended,able,purchased,step,arrived,idea,people,heater,garage,design,connection,press,day,hub,tree,hook,point,tv,4ghz,account,location,useful,day,highly,help,scene,google,downloaded,year,wiring
+register,dark,worth,simple,consumption,pretty,thing,monitor,feel,fit,auto,unplug,remotely,smartthings,got,gift,slow,bedroom,reset,rule,leave,controlled,dot,cool,tech,koogeek,apps,cord,future,install
+job,come,money,worked,code,doe,know,window,compact,big,excited,signal,sunset,forward,pack,iphone,nest,appliance,ghz,email,battery,need,month,best,got,siri,enter,fix,ordered,house
+needed,lamp,jinvoo,working,hue,lost,charge,blue,door,bit,brand,manually,automatically,mobile,thank,monitoring,kitchen,surge,signal,amazon,dim,easily,fine,gadget,different,application,wink,version,min,electrical
+supposed,nice,follow,little,frequently,returning,issue,electronics,high,cover,permission,waste,allows,able,worked,hooked,useless,need,issue,replacement,dimmer,expensive,amazon,operate,bought,enabled,server,android,purchasing,way
+
+Data size,Topics,no_above,Chunksize,Passes,Iteration
+40000,30,0.9,2000,5,200
+
+Topic 1,Topic 2,Topic 3,Topic 4,Topic 5,Topic 6,Topic 7,Topic 8,Topic 9,Topic 10,Topic 11,Topic 12,Topic 13,Topic 14,Topic 15,Topic 16,Topic 17,Topic 18,Topic 19,Topic 20,Topic 21,Topic 22,Topic 23,Topic 24,Topic 25,Topic 26,Topic 27,Topic 28,Topic 29,Topic 30
+lamp,iphone,excellent,unit,account,good,nice,christmas,power,socket,buy,plugged,wemo,awesome,google,timer,doe,working,cool,connect,rule,usb,wire,wi,link,house,install,instruction,update,perfect
+room,pair,apple,wall,need,minute,convenient,tree,button,customer,definitely,thing,router,item,voice,schedule,sync,worked,bulb,network,tablet,hub,box,fi,tp,come,simple,download,firmware,sunset
+bedroom,buying,homekit,design,thing,took,expected,fantastic,strip,service,looking,hard,network,tv,amazon,function,job,dot,feature,mini,mode,port,neutral,remote,kasa,away,camera,skill,issue,happy
+fan,ipad,downloaded,tuya,know,price,wish,year,size,support,price,amazing,connection,quality,command,described,compatible,month,pretty,tried,configure,charge,install,range,life,able,integration,follow,review,sunrise
+living,purchase,automation,small,program,super,exactly,click,plugged,sent,look,internet,ifttt,bought,advertised,allows,supposed,day,energy,belkin,register,smartthings,installed,daily,recommend,outside,security,step,software,ihome
+bed,group,reliable,cord,people,far,pleased,impressed,ha,seller,recommend,getting,connect,pack,android,option,wink,week,dimmer,hour,based,charm,installation,signal,highly,dark,min,add,new,power
+dot,friend,koogeek,cover,figure,le,arrived,ordered,surge,return,feel,lamp,wireless,gift,quick,remotely,hub,problem,led,support,information,needed,white,website,easier,gadget,mobile,direction,version,convenience
+house,individual,apps,big,review,10,block,garage,smaller,email,future,unplug,issue,thanks,worked,io,terrible,bought,usage,connected,access,charging,electrical,24,recommended,night,husband,read,problem,outage
+night,purchased,siri,user,let,fast,compact,randomly,press,replacement,forward,wife,setting,hooked,controlled,away,bad,fine,stuff,password,charger,need,wiring,upstairs,amazon,vacation,scheduled,connect,fix,appliance
+able,family,sensor,fit,ask,20,little,ordering,thing,company,purchase,having,connected,satisfied,simple,setting,exactly,reset,dim,try,discover,best,house,downstairs,brand,perfectly,lose,code,model,desk
+
+Data size,Topics,no_above,Chunksize,Passes,Iteration
+40000,30,0.9,500,5,200
+
+Topic 1,Topic 2,Topic 3,Topic 4,Topic 5,Topic 6,Topic 7,Topic 8,Topic 9,Topic 10,Topic 11,Topic 12,Topic 13,Topic 14,Topic 15,Topic 16,Topic 17,Topic 18,Topic 19,Topic 20,Topic 21,Topic 22,Topic 23,Topic 24,Topic 25,Topic 26,Topic 27,Topic 28,Topic 29,Topic 30
+dot,item,lamp,link,google,away,good,recommend,money,little,box,install,seller,working,convenient,far,tuya,expected,timer,life,usb,awesome,wi,power,socket,connect,wemo,review,buy,bought
+fast,amazon,room,tp,doe,connection,perfect,highly,company,best,wire,hub,bulb,worked,button,price,user,charm,program,thing,small,remote,fi,strip,unit,minute,instruction,update,iphone,got
+useful,fan,house,router,needed,remotely,appliance,definitely,quality,quickly,direction,issue,led,week,group,perfectly,software,installation,function,voice,port,access,open,schedule,size,connected,setting,support,service,ve
+amazon,integration,bedroom,network,exactly,ha,io,buying,code,trouble,install,pair,ipad,fine,second,good,cell,min,automatically,cool,click,configure,ll,plugged,christmas,took,download,issue,internet,jinvoo
+high,hooked,living,account,looking,house,easier,amazing,number,getting,white,firmware,controlled,day,block,advertised,failed,forward,ifttt,nice,ha,wish,future,wall,surge,hour,skill,problem,customer,downloaded
+free,world,super,mini,store,coffee,press,quick,purchasing,hard,electrical,apps,dimmer,tried,start,ordered,friendly,online,sunset,command,big,morning,close,purchase,play,android,follow,reset,connecting,flawlessly
+functionality,homekit,bed,password,compatible,mobile,charger,price,waste,complete,need,register,plus,return,turned,happy,server,camera,discover,pretty,space,thanks,connection,want,design,got,connect,received,tablet,year
+air,automation,dark,kasa,amazon,feature,stuff,buy,offline,family,wall,paired,area,problem,mode,worked,wonderful,straight,create,able,energy,unplug,cost,night,protector,network,step,belkin,tan,expensive
+quality,koogeek,turning,tv,need,able,wife,pleased,buy,bit,neutral,simple,compact,stopped,ac,month,error,extender,allows,know,little,solution,type,need,tree,tried,add,doe,security,pack
+rating,prime,getting,excellent,operate,handy,touch,bought,send,especially,single,difficult,addition,update,blue,described,value,clear,outside,tell,charging,permission,mean,multiple,window,try,smartphone,trying,entire,worked
+
+Data size,Topics,no_above,Chunksize,Passes,Iteration
+40000,30,0.9,1000,5,200
+
+Topic 1,Topic 2,Topic 3,Topic 4,Topic 5,Topic 6,Topic 7,Topic 8,Topic 9,Topic 10,Topic 11,Topic 12,Topic 13,Topic 14,Topic 15,Topic 16,Topic 17,Topic 18,Topic 19,Topic 20,Topic 21,Topic 22,Topic 23,Topic 24,Topic 25,Topic 26,Topic 27,Topic 28,Topic 29,Topic 30
+wemo,link,support,instruction,voice,minute,password,recommend,feature,power,price,life,thing,fan,working,nice,timer,usb,install,buy,connect,button,wi,socket,good,lamp,dot,wire,port,play
+android,tp,hour,download,item,took,brand,highly,away,strip,bought,skill,cool,better,worked,bedroom,schedule,tuya,simple,belkin,network,remote,fi,iphone,doe,room,hub,box,rule,absolutely
+account,google,try,follow,command,10,different,ask,best,unit,new,happy,house,trouble,day,perfect,function,vacation,super,money,router,firmware,connection,christmas,far,living,pair,house,configure,heater
+update,amazon,review,step,convenient,sunset,power,charm,tablet,plugged,amazon,purchase,pretty,apps,week,bed,remotely,thank,little,energy,connected,tv,excellent,useful,advertised,bulb,amazon,dark,charging,space
+amazon,mini,return,direction,program,homekit,hard,easier,security,wall,purchased,buying,definitely,software,month,night,appliance,touch,wish,sent,tried,click,operate,tell,quality,ifttt,paired,install,mobile,complaint
+issue,awesome,working,review,amazon,sunrise,high,hooked,smartphone,small,year,fast,want,cell,ve,able,simple,screen,le,worth,wireless,code,expected,tree,seller,surge,smartthings,neutral,experience,big
+network,kasa,customer,read,io,allows,design,followed,haven,size,old,jinvoo,buy,application,ha,extremely,integration,intuitive,dimmer,recommended,connecting,press,signal,plugged,described,protector,required,way,waste,office
+connect,perfectly,update,store,pleased,min,reach,band,forward,need,buy,amazing,little,range,reset,porch,day,slow,bit,service,connection,gadget,ghz,quickly,job,monitor,need,white,discover,deal
+new,exactly,help,thing,quick,setting,future,hook,camera,ha,better,group,block,interface,problem,outdoor,ha,water,expensive,offline,able,manual,useless,friendly,failed,lighting,wink,need,soon,difficult
+tried,ordered,tech,process,nice,convenience,ha,shut,option,apple,cheaper,compatible,ve,extender,issue,turning,ipad,dual,looking,usage,internet,kid,returning,gift,supposed,led,tuyasmart,electrical,review,reliable
+
+Data size,Topics,no_above,Chunksize,Passes,Iteration
+40000,30,0.9,2000,5,200
+
+Topic 1,Topic 2,Topic 3,Topic 4,Topic 5,Topic 6,Topic 7,Topic 8,Topic 9,Topic 10,Topic 11,Topic 12,Topic 13,Topic 14,Topic 15,Topic 16,Topic 17,Topic 18,Topic 19,Topic 20,Topic 21,Topic 22,Topic 23,Topic 24,Topic 25,Topic 26,Topic 27,Topic 28,Topic 29,Topic 30
+automation,buy,power,lamp,software,simple,amazon,network,working,mini,recommend,wemo,customer,link,power,perfectly,schedule,connected,update,minute,google,energy,room,good,belkin,timer,room,house,wire,wi
+handy,little,store,awesome,rule,instruction,dot,router,worked,bought,bulb,connect,service,tp,socket,excellent,cool,account,firmware,life,hub,connection,lamp,far,wemo,old,advertised,christmas,install,fi
+quick,ll,blue,thing,thing,download,voice,setting,reset,ordered,highly,support,review,kasa,strip,convenient,ifttt,stay,issue,timer,surge,remote,bedroom,price,power,option,doe,fan,box,perfect
+heater,future,offline,button,need,downloaded,command,connect,fine,le,tuya,tech,support,reconnect,wall,amazing,feature,recommended,week,took,smartthings,click,house,quality,application,morning,exactly,tree,installed,expected
+enabled,reliable,jinvoo,plugged,ha,direction,super,wireless,got,useful,dimmer,tried,company,amazon,usb,charge,follow,configure,apple,program,need,design,bed,unit,better,year,needed,outside,installation,iphone
+address,expensive,code,hard,know,little,happy,issue,month,coffee,definitely,hour,received,disconnect,size,operate,able,cell,homekit,sunset,extender,intuitive,night,best,integration,better,living,leave,neutral,item
+skill,pair,free,block,apps,connect,bought,user,day,second,pack,amazon,email,disconnected,port,fast,pretty,problem,ha,nice,protector,location,tv,look,sensor,change,kitchen,camera,white,described
+scene,buying,add,price,charging,install,sync,connection,android,thanks,led,help,instruction,connection,fit,skill,access,security,review,day,wink,signal,remote,pretty,motion,new,job,garage,house,ipad
+table,definitely,press,little,create,pleased,purchased,seller,problem,gift,purchase,connected,sent,hs100,small,extremely,step,drop,response,10,charger,monitoring,living,impressed,outage,version,gadget,ac,wiring,daily
+easily,need,button,wish,android,difficult,install,review,password,deal,dim,spent,tried,easiest,ha,absolutely,timer,ordering,ve,house,range,power,want,high,adapter,play,hooked,monitor,way,exactly
+
+Data size,Topics,no_above,Chunksize,Passes,Iteration
+40000,30,0.9,4000,5,200
+
+Topic 1,Topic 2,Topic 3,Topic 4,Topic 5,Topic 6,Topic 7,Topic 8,Topic 9,Topic 10,Topic 11,Topic 12,Topic 13,Topic 14,Topic 15,Topic 16,Topic 17,Topic 18,Topic 19,Topic 20,Topic 21,Topic 22,Topic 23,Topic 24,Topic 25,Topic 26,Topic 27,Topic 28,Topic 29,Topic 30
+amazon,christmas,timer,bulb,install,support,year,wemo,ihome,voice,remote,nice,thing,perfectly,wire,doe,room,link,button,working,add,tried,network,connect,wall,good,simple,downloaded,power,item
+dot,tree,schedule,dimmer,minute,review,brand,update,surge,command,awesome,cool,need,socket,hub,super,lamp,tp,unit,mini,code,hour,router,connection,fit,far,recommend,error,camera,usb
+google,tuya,feature,led,took,instruction,ve,firmware,protector,away,happy,able,option,life,box,recommend,bedroom,kasa,second,month,coffee,connect,android,connected,size,advertised,looking,junk,ac,port
+perfect,air,sunset,dim,installed,customer,different,belkin,etekcity,lamp,purchase,house,model,fan,neutral,highly,living,homekit,design,week,lighting,money,issue,wi,socket,price,forward,total,strip,power
+integration,got,energy,controlled,10,service,house,skill,assistant,amazon,program,remotely,know,wish,white,recommended,bed,tv,press,worked,smartthings,trying,access,fi,cover,quality,charm,watt,security,strip
+ifttt,hook,rule,dimming,le,help,new,setting,2nd,right,described,appliance,allows,expected,wiring,job,night,apple,block,fine,store,try,password,router,box,instruction,definitely,guy,unit,cord
+amazing,koogeek,day,useful,porch,company,old,ha,round,bought,excellent,heater,hub,worked,way,hard,house,account,click,problem,price,worked,wireless,network,space,fast,quick,piece,outage,charging
+download,kid,ha,color,outside,email,bought,new,shape,click,pair,thing,world,convenient,wave,little,dark,4ghz,charger,day,outdoor,return,software,internet,large,follow,friend,load,turned,ha
+wemo,hooked,sunrise,controller,house,read,ll,problem,tplink,buy,fantastic,iphone,separate,easier,wink,need,walk,amazon,compact,ha,blue,won,need,download,big,pretty,arrived,stuff,garage,handy
+pack,ask,setting,level,flawlessly,tech,location,issue,longer,haven,ordered,pretty,want,needed,install,buy,having,5ghz,push,stopped,ok,returned,ha,signal,charge,install,quickly,run,need,extension
+
+Data size,Topics,no_above,Chunksize,Passes,Iteration
+40000,30,0.9,4000,1,200
+
+Topic 1,Topic 2,Topic 3,Topic 4,Topic 5,Topic 6,Topic 7,Topic 8,Topic 9,Topic 10,Topic 11,Topic 12,Topic 13,Topic 14,Topic 15,Topic 16,Topic 17,Topic 18,Topic 19,Topic 20,Topic 21,Topic 22,Topic 23,Topic 24,Topic 25,Topic 26,Topic 27,Topic 28,Topic 29,Topic 30
+mini,link,far,working,doe,garage,life,size,wire,power,hub,network,price,air,instruction,lamp,download,gadget,house,sunset,socket,wi,power,bulb,homekit,google,awesome,wemo,christmas,android
+dot,tp,described,worked,good,box,house,bit,box,strip,bought,router,fast,house,connect,room,fan,dimmer,needed,timer,usb,fi,thing,convenient,apple,voice,perfect,belkin,super,wemo
+install,kasa,good,week,quality,house,dark,hub,neutral,wall,wink,issue,simple,ghz,follow,living,update,battery,need,feature,port,account,qr,recommended,button,command,advertised,network,minute,update
+recommend,amazon,working,day,buy,new,bed,little,white,plugged,charge,connect,camera,lamp,direction,bedroom,wemo,ve,lamp,sunrise,ihome,setting,people,highly,room,ifttt,tv,connect,tree,connect
+definitely,amazing,connect,service,support,round,hard,pretty,install,socket,code,wireless,good,got,need,exactly,instruction,decent,thanks,power,good,connected,helpful,timer,siri,integration,excellent,ha,amazon,worked
+expected,lamp,took,customer,operate,fit,room,thing,wiring,block,defective,fi,handy,downloaded,installation,cool,minute,power,useful,schedule,tuya,connection,know,recommend,sensor,absolutely,amazon,reset,timer,iphone
+amazon,room,ifttt,problem,remote,way,reach,smaller,need,usb,controlled,wemo,pleased,able,install,doe,amazon,mind,downstairs,day,ha,internet,amp,reliable,press,timer,happy,try,able,tried
+highly,perfectly,worked,month,best,cover,easier,smartthings,installed,surge,scan,wi,install,day,read,want,skill,write,arrived,wemo,support,reset,dont,hue,motion,second,purchase,need,easily,support
+item,group,brand,stopped,amazon,bought,night,big,electrical,cord,unit,connection,step,little,download,fantastic,able,household,good,monitor,charging,schedule,yes,ve,remote,assistant,hook,doe,simple,software
+buy,nice,configure,bought,tech,planning,way,space,installation,charger,10,signal,house,maker,followed,ask,took,watt,nice,randomly,ap,power,button,unit,lamp,extender,sync,support,flawlessly,problem
+
+Data size,Topics,no_above,Chunksize,Passes,Iteration
+40000,30,0.9,4000,5,200
+
+Topic 1,Topic 2,Topic 3,Topic 4,Topic 5,Topic 6,Topic 7,Topic 8,Topic 9,Topic 10,Topic 11,Topic 12,Topic 13,Topic 14,Topic 15,Topic 16,Topic 17,Topic 18,Topic 19,Topic 20,Topic 21,Topic 22,Topic 23,Topic 24,Topic 25,Topic 26,Topic 27,Topic 28,Topic 29,Topic 30
+super,wemo,buy,price,google,ihome,install,wire,socket,house,doe,button,nice,hub,unit,item,timer,size,fan,perfectly,working,link,away,power,lamp,support,issue,update,money,good
+schedule,wi,purchase,life,network,model,minute,box,usb,cool,advertised,remote,program,pair,year,awesome,night,power,wall,dot,connect,tp,pack,strip,room,customer,connection,firmware,waste,recommend
+simple,fi,bought,easier,ifttt,ac,took,neutral,port,handy,setting,bulb,feature,smartthings,ha,described,useful,strip,garage,worked,tried,kasa,right,energy,bedroom,service,reset,network,account,highly
+convenient,android,happy,fast,iphone,window,instruction,wiring,charge,outdoor,exactly,click,sunset,add,10,exactly,4ghz,small,extender,amazon,worked,amazon,air,usage,living,tech,router,belkin,won,far
+amazing,mini,buying,tuya,password,older,voice,install,ha,lighting,ok,dimmer,timer,code,signal,charging,day,design,plate,connected,got,skill,floor,save,house,help,problem,review,buy,expected
+appliance,network,excellent,worth,security,better,command,white,cable,christmas,job,led,able,wink,issue,hook,house,wall,ceiling,far,hour,group,range,run,bed,company,network,software,offline,quality
+allows,connect,definitely,cost,camera,idevices,download,way,mac,gift,band,press,option,wave,range,arrived,fun,block,addition,charm,day,pleased,heater,battery,christmas,called,connected,thing,connect,recommended
+timer,homekit,month,gadget,user,hue,simple,electrical,allow,outside,supposed,kitchen,sunrise,siri,replace,flawlessly,5ghz,cord,dont,wish,try,dot,house,outage,dark,know,ha,ha,junk,price
+tv,router,ve,little,ipad,old,amazon,black,need,thanks,rule,cell,remotely,need,problem,amazon,charger,plugged,house,perfect,return,performance,area,electricity,tree,helpful,connect,android,piece,intuitive
+coffee,setting,recommend,brand,motion,amazon,installed,house,power,bought,sound,etekcity,remote,samsung,month,purchasing,want,thing,door,reliable,problem,constantly,space,monitor,able,internet,internet,support,cloud,working
+
+Data size,Topics,no_above,Chunksize,Passes,Iteration
+40000,30,0.9,4000,10,200
+
+Topic 1,Topic 2,Topic 3,Topic 4,Topic 5,Topic 6,Topic 7,Topic 8,Topic 9,Topic 10,Topic 11,Topic 12,Topic 13,Topic 14,Topic 15,Topic 16,Topic 17,Topic 18,Topic 19,Topic 20,Topic 21,Topic 22,Topic 23,Topic 24,Topic 25,Topic 26,Topic 27,Topic 28,Topic 29,Topic 30
+customer,life,power,minute,remote,price,night,timer,install,wemo,network,tried,good,working,homekit,unit,hub,tv,room,house,perfect,wire,connection,recommend,ifttt,amazon,connect,link,update,button
+service,super,strip,took,socket,buying,appliance,fan,instruction,google,password,hour,doe,month,apple,year,dimmer,hard,lamp,nice,program,box,sunset,advertised,feature,dot,setting,tp,wemo,usb
+support,buy,size,voice,wall,better,click,cool,follow,mini,access,support,far,week,ihome,ve,smartthings,camera,bedroom,expected,simple,neutral,away,highly,integration,perfectly,router,kasa,firmware,press
+received,purchase,wall,command,different,brand,especially,want,installation,wi,wireless,connect,bulb,worked,samsung,old,wave,cell,living,outside,operate,wiring,router,exactly,doe,christmas,instruction,excellent,issue,port
+quality,convenient,small,amazon,location,little,turning,schedule,awesome,fi,point,worked,pair,ha,pairing,ha,wink,coffee,bed,come,tuya,white,schedule,worked,application,bought,network,amazon,belkin,4ghz
+company,easier,socket,connected,jinvoo,expensive,ha,thing,simple,amazon,doe,reset,price,fine,paired,reliable,lighting,security,house,able,user,install,power,item,useful,got,step,charge,android,charging
+seller,happy,plugged,10,range,option,sound,day,direction,connect,address,day,led,stopped,idevices,better,installed,hook,walk,dark,friendly,way,problem,flawlessly,sensor,tree,review,account,software,remote
+response,fast,design,le,controlled,buy,high,house,skill,insight,ha,return,job,ve,interface,type,outdoor,offline,getting,garage,ok,house,reset,needed,motion,amazing,download,etekcity,review,push
+replacement,described,usb,second,battery,function,office,handy,forward,new,need,got,supposed,far,automation,10,controller,remotely,kid,door,satisfied,black,internet,recommended,automation,sync,connecting,tablet,problem,table
+email,pleased,block,group,ve,wish,helpful,heater,amazon,window,know,trying,blue,day,manage,number,ge,reach,having,wife,order,electrical,timer,charm,rule,worked,connected,free,iphone,ha
+
+Data size,Topics,no_above,Chunksize,Passes,Iteration
+40000,30,0.9,4000,20,200
+
+Topic 1,Topic 2,Topic 3,Topic 4,Topic 5,Topic 6,Topic 7,Topic 8,Topic 9,Topic 10,Topic 11,Topic 12,Topic 13,Topic 14,Topic 15,Topic 16,Topic 17,Topic 18,Topic 19,Topic 20,Topic 21,Topic 22,Topic 23,Topic 24,Topic 25,Topic 26,Topic 27,Topic 28,Topic 29,Topic 30
+wire,link,dimmer,item,working,power,remote,hub,timer,issue,thing,google,price,unit,simple,wemo,android,install,dot,instruction,fine,good,nice,excellent,button,wall,doe,amazon,lamp,usb
+box,tp,wave,year,support,strip,life,pair,setting,ve,got,awesome,better,review,help,network,apple,recommend,voice,minute,away,far,schedule,fast,convenient,size,socket,bulb,room,super
+neutral,kasa,lighting,bought,worked,energy,program,smartthings,rule,problem,getting,ifttt,little,power,quick,connect,advertised,perfectly,amazon,took,signal,pretty,timer,pleased,click,design,exactly,ordered,house,port
+install,connection,way,fantastic,tried,usage,easier,paired,away,mini,try,thing,brand,ha,future,router,ihome,christmas,happy,download,house,4ghz,perfect,quality,press,fit,described,charge,bedroom,outside
+white,money,led,long,customer,appliance,amazing,wink,want,far,problem,integration,expensive,know,convenience,wi,iphone,highly,command,skill,range,quality,expected,band,blue,big,job,sync,living,outdoor
+wiring,waste,garage,purchased,day,monitor,hard,siri,account,ha,setting,charm,buy,state,buy,fi,software,worked,purchase,follow,ok,5ghz,fan,best,let,cover,wanted,thanks,bed,operate
+installed,connected,add,cord,hour,plugged,button,code,schedule,wemo,worked,play,worth,cloud,friend,update,homekit,buy,ghz,install,foot,configure,sunset,address,turned,small,needed,received,dark,cable
+installation,stay,controller,thank,service,motion,reach,charging,access,month,think,handy,cheaper,rating,plan,belkin,io,definitely,hook,step,gift,heater,feature,intuitive,second,space,wife,order,night,water
+electrical,doe,dim,charger,return,sensor,tuya,homekit,need,week,working,assistant,cost,watt,house,firmware,doe,tree,hooked,connect,right,price,night,value,plugging,bit,dont,perfectly,able,arrived
+house,connect,ge,user,update,surge,battery,pairing,camera,reliable,trouble,integrate,wish,window,tech,connected,ipad,cool,connect,direction,extender,apartment,come,mac,led,large,neo,linked,plugged,tablet
+
+Data size,Topics,no_above,Chunksize,Passes,Iteration
+40000,30,0.9,4000,20,100
+
+Topic 1,Topic 2,Topic 3,Topic 4,Topic 5,Topic 6,Topic 7,Topic 8,Topic 9,Topic 10,Topic 11,Topic 12,Topic 13,Topic 14,Topic 15,Topic 16,Topic 17,Topic 18,Topic 19,Topic 20,Topic 21,Topic 22,Topic 23,Topic 24,Topic 25,Topic 26,Topic 27,Topic 28,Topic 29,Topic 30
+wall,button,working,usb,unit,buy,lamp,bulb,connect,update,money,worked,timer,away,deal,wire,good,house,feature,instruction,remote,thing,network,minute,wemo,recommend,dot,wi,support,link
+fan,fast,month,port,power,price,room,dimmer,tried,issue,bought,advertised,schedule,range,big,hub,far,best,power,homekit,socket,little,connect,took,google,christmas,perfect,fi,customer,tp
+size,click,problem,outdoor,tv,install,bedroom,design,tech,firmware,year,exactly,sunset,quality,garage,box,happy,different,energy,apple,power,life,router,got,belkin,highly,super,connected,service,amazon
+fit,press,reset,charging,forward,worth,living,led,hour,review,waste,expected,function,signal,open,neutral,simple,come,usage,download,strip,cool,setting,working,ifttt,awesome,amazon,android,company,kasa
+block,second,week,cord,appliance,expensive,bed,way,support,software,save,flawlessly,feature,right,door,install,purchase,thing,application,follow,excellent,pretty,password,10,rule,perfectly,buying,router,email,voice
+smaller,hold,day,lighting,air,brand,night,dim,fine,network,ordered,needed,day,foot,little,ihome,install,way,ipad,direction,plugged,getting,access,second,integration,item,convenient,connect,sent,mini
+small,power,worked,cable,ac,wish,house,hue,returned,problem,purchased,doe,setting,pleased,look,smartthings,fantastic,useful,insight,described,wall,able,wireless,le,automation,tree,pair,stay,motion,command
+cover,push,connection,ha,window,better,kitchen,ve,doe,fix,ve,coffee,program,high,thing,installed,charm,dark,iphone,read,surge,bit,step,worked,android,definitely,amazing,network,replacement,skill
+little,thank,ha,bright,straight,cheaper,walk,etekcity,worked,ha,thanks,gadget,away,router,sure,need,pretty,ve,functionality,tuya,battery,want,need,connected,amazon,charge,easily,iphone,number,group
+mini,offline,ve,liked,outage,cost,having,doe,try,router,amazon,water,come,line,factor,installation,program,able,security,compatible,need,easier,account,trying,ha,recommended,paired,io,camera,dot
+
+Data size,Topics,no_above,Chunksize,Passes,Iteration
+40000,30,0.9,4000,20,200
+
+Topic 1,Topic 2,Topic 3,Topic 4,Topic 5,Topic 6,Topic 7,Topic 8,Topic 9,Topic 10,Topic 11,Topic 12,Topic 13,Topic 14,Topic 15,Topic 16,Topic 17,Topic 18,Topic 19,Topic 20,Topic 21,Topic 22,Topic 23,Topic 24,Topic 25,Topic 26,Topic 27,Topic 28,Topic 29,Topic 30
+voice,power,thing,remote,kasa,connect,support,strip,program,timer,minute,socket,recommend,dimmer,good,price,wire,house,lamp,review,network,link,christmas,wemo,install,working,tv,google,unit,wall
+super,usb,different,button,homekit,network,customer,range,old,schedule,took,pair,mini,led,far,month,box,buy,room,ihome,update,tp,happy,rule,instruction,worked,hard,perfect,dot,small
+fan,awesome,ve,click,apple,wi,service,outdoor,best,away,10,paired,advertised,wave,perfectly,ve,neutral,thing,bedroom,charge,router,hub,purchase,ifttt,life,tried,port,iphone,amazon,size
+command,item,brand,press,account,fi,android,outside,forward,feature,le,coffee,highly,blue,quality,wish,installed,nice,living,read,issue,bulb,tree,belkin,little,hour,fast,ipad,flawlessly,design
+convenient,need,pretty,4ghz,skill,password,software,house,button,day,cool,recommended,exactly,surge,excellent,worth,wiring,buying,bed,band,connection,smartthings,heater,sunset,simple,day,connected,android,ac,socket
+energy,charging,lot,access,amazon,setting,belkin,garage,kitchen,remotely,second,easily,doe,thing,price,year,install,definitely,house,received,reset,wink,fantastic,sunrise,follow,got,quickly,gift,window,fit
+usage,ha,bit,number,add,download,company,power,want,able,got,air,expected,dim,pleased,purchased,white,amazing,night,register,firmware,ghz,bought,insight,installation,connect,pack,tablet,purchased,block
+appliance,plugged,smaller,wireless,group,connected,doe,lighting,straight,house,working,pairing,described,protector,reliable,bought,wall,going,dark,box,problem,amazon,ordered,motion,direction,bought,reach,soon,high,space
+operate,monitor,little,5ghz,compatible,router,io,battery,year,come,siri,family,worked,ge,value,expensive,electrical,able,walk,new,internet,need,wonderful,sensor,easier,money,seller,bought,ha,big
+amazon,outage,multiple,second,automation,instruction,contact,signal,push,ha,tuya,etekcity,friend,look,worked,issue,way,sync,plugged,number,connected,charm,compact,trigger,amazon,trying,son,perfectly,sound,cover
+
+Data size,Topics,no_above,Chunksize,Passes,Iteration
+40000,30,0.9,4000,20,400
+
+Topic 1,Topic 2,Topic 3,Topic 4,Topic 5,Topic 6,Topic 7,Topic 8,Topic 9,Topic 10,Topic 11,Topic 12,Topic 13,Topic 14,Topic 15,Topic 16,Topic 17,Topic 18,Topic 19,Topic 20,Topic 21,Topic 22,Topic 23,Topic 24,Topic 25,Topic 26,Topic 27,Topic 28,Topic 29,Topic 30
+remote,homekit,wemo,network,house,little,wire,minute,ihome,timer,good,connection,link,perfect,connected,amazon,exactly,doe,review,power,hub,issue,socket,install,buy,lamp,update,support,unit,working
+button,iphone,google,connect,timer,super,box,instruction,motion,schedule,recommend,problem,tp,advertised,item,dot,expected,fine,amazon,strip,bulb,far,wall,simple,thing,room,firmware,customer,best,worked
+awesome,apple,ifttt,router,automatically,christmas,neutral,took,sound,feature,perfectly,sunset,kasa,excellent,stay,mini,happy,better,ordered,usb,dimmer,ha,size,installation,ll,bedroom,software,service,cost,day
+click,tv,belkin,wi,night,tree,white,skill,office,away,highly,reset,account,fast,away,voice,money,range,read,port,smartthings,android,design,installed,need,living,version,hour,price,month
+press,camera,download,fi,garage,got,wiring,10,trigger,program,quality,internet,amazon,hard,idea,command,described,job,item,energy,wave,ve,charge,configure,know,fan,doe,tech,ve,week
+sensor,ipad,insight,connected,operate,wish,way,second,select,able,far,rule,group,charm,bought,price,cool,cord,returned,usage,led,flawlessly,fit,kitchen,want,bed,charging,help,signal,bought
+different,security,integration,wireless,old,thing,electrical,follow,load,remotely,definitely,setting,loved,nice,live,amazing,purchase,air,purchased,ha,wink,io,block,look,buying,house,ha,tried,year,ha
+push,scene,android,password,porch,bit,black,step,temperature,nice,price,sunrise,bulb,quickly,apartment,bought,siri,extender,received,plugged,pair,haven,big,fairly,going,life,updated,belkin,outside,stopped
+number,koogeek,account,connecting,looking,getting,house,le,functionality,function,recommended,network,server,soon,ha,pack,worth,window,forward,ac,automation,problem,cover,straightforward,think,convenient,upgrade,email,brand,ve
+location,quick,address,connection,outdoor,bought,install,working,relatively,ability,fantastic,day,alexia,thank,right,surge,doe,extension,wanted,heater,need,worked,small,ease,direction,able,hardware,company,better,fine
+
+Data size,Topics,no_above,Chunksize,Passes,Iteration
+40000,10,0.9,4000,20,400
+
+Topic 1,Topic 2,Topic 3,Topic 4,Topic 5,Topic 6,Topic 7,Topic 8,Topic 9,Topic 10
+amazon,remote,lamp,wire,power,hub,wemo,good,timer,link
+instruction,worked,room,box,button,bulb,network,price,schedule,tp
+install,christmas,house,neutral,strip,dimmer,mini,far,power,router
+connect,bought,awesome,install,usb,automation,update,socket,away,network
+minute,advertised,thing,wall,homekit,smartthings,issue,buy,day,working
+took,recommend,bedroom,way,unit,wave,firmware,doe,feature,connect
+dot,highly,living,installation,apple,need,belkin,little,sunset,support
+download,perfect,fan,installed,plugged,wink,android,excellent,come,tried
+able,perfectly,bed,house,port,sensor,ifttt,nice,house,worked
+connected,tree,able,white,ha,range,ha,quality,ha,problem
+
+Data size,Topics,no_above,Chunksize,Passes,Iteration
+40000,30,0.9,4000,20,400
+
+Topic 1,Topic 2,Topic 3,Topic 4,Topic 5,Topic 6,Topic 7,Topic 8,Topic 9,Topic 10,Topic 11,Topic 12,Topic 13,Topic 14,Topic 15,Topic 16,Topic 17,Topic 18,Topic 19,Topic 20,Topic 21,Topic 22,Topic 23,Topic 24,Topic 25,Topic 26,Topic 27,Topic 28,Topic 29,Topic 30
+amazon,item,fan,wemo,wave,hub,socket,lamp,issue,support,good,review,energy,working,timer,perfectly,power,bulb,mini,recommend,android,install,remote,link,doe,perfect,wi,wire,button,minute
+connect,buy,advertised,network,outdoor,google,tv,room,update,tried,far,read,heater,worked,schedule,awesome,strip,dimmer,camera,life,software,simple,convenient,tp,wall,happy,fi,neutral,house,took
+dot,money,useful,belkin,controller,voice,size,bedroom,firmware,hour,price,doe,monitor,unit,away,excellent,usb,ihome,security,christmas,rule,instruction,thing,kasa,box,purchase,setting,box,click,connected
+exactly,nice,daily,connect,air,command,design,living,problem,customer,little,know,cost,day,program,fast,port,led,router,highly,day,super,different,homekit,fit,garage,password,white,press,le
+download,cool,hue,router,lighting,ifttt,small,bed,ve,service,expected,siri,high,month,come,tuya,cord,dim,signal,definitely,need,installation,amazing,account,bit,buying,connect,wiring,dark,10
+pair,thing,usage,mini,unit,smartthings,block,night,fine,connect,quality,ll,battery,week,feature,fantastic,charging,etekcity,motion,bought,vacation,follow,pack,apple,little,plan,network,install,little,second
+able,worth,trigger,connected,module,amazon,big,house,version,tech,better,setting,appliance,connection,house,price,ha,dimming,sensor,tree,hour,direction,need,skill,cover,door,trouble,installed,code,30
+charge,waste,track,internet,solid,wink,plugged,plugged,ha,instruction,pretty,thing,unit,reset,sunset,quick,surge,level,range,easier,mobile,described,want,amazon,space,future,connecting,way,walk,15
+needed,seller,ceiling,connection,ge,integration,smaller,able,far,trying,wish,instruction,usage,bought,able,value,ac,color,band,recommended,run,coffee,wall,add,issue,wife,change,electrical,thing,20
+bought,save,free,ha,year,paired,wall,reach,working,help,buy,need,protector,return,outside,extremely,plugged,feature,away,purchased,server,sync,fun,iphone,job,house,getting,black,second,arrived
+
+Data size,Topics,no_above,Chunksize,Passes,Iteration
+40000,50,0.9,4000,20,400
+
+Topic 1,Topic 2,Topic 3,Topic 4,Topic 5,Topic 6,Topic 7,Topic 8,Topic 9,Topic 10,Topic 11,Topic 12,Topic 13,Topic 14,Topic 15,Topic 16,Topic 17,Topic 18,Topic 19,Topic 20,Topic 21,Topic 22,Topic 23,Topic 24,Topic 25,Topic 26,Topic 27,Topic 28,Topic 29,Topic 30,Topic 31,Topic 32,Topic 33,Topic 34,Topic 35,Topic 36,Topic 37,Topic 38,Topic 39,Topic 40,Topic 41,Topic 42,Topic 43,Topic 44,Topic 45,Topic 46,Topic 47,Topic 48,Topic 49,Topic 50
+design,far,brand,power,link,review,little,lamp,hub,smartthings,download,bulb,usb,voice,remote,life,fast,function,purchase,difficult,wire,item,button,away,forget,good,wall,christmas,connect,connection,install,fan,bought,power,timer,looking,minute,customer,google,support,recommend,doe,wemo,people,schedule,working,simple,android,unit,update
+charge,good,different,state,tp,instruction,nice,room,compatible,wave,ask,dimmer,power,perfect,socket,easier,window,expected,best,extremely,neutral,mini,click,right,fairly,price,box,house,network,router,wi,better,wish,plugged,program,skill,instruction,service,account,hour,perfectly,dot,belkin,feel,feature,month,pretty,setting,ac,firmware
+pleased,reliable,buying,outage,kasa,read,convenient,living,wink,paired,return,way,port,command,bed,security,8,wife,useful,disappointed,installation,money,second,happy,addition,quality,fit,tree,connected,reset,fi,new,pair,tv,schedule,look,took,company,ifttt,tried,awesome,advertised,usage,isn,plus,worked,super,ihome,cost,software
+single,quickly,fine,operation,excellent,received,bit,bedroom,required,hub,let,led,strip,amazon,wall,camera,temperature,mind,happy,hard,install,worth,press,described,functionality,water,cover,outside,password,issue,iphone,version,deal,energy,sunset,add,follow,replacement,rule,trying,highly,homekit,insight,idea,operate,day,cool,io,sign,thanks
+hook,interface,help,module,amazon,manual,getting,house,smartphone,controller,couldn,kitchen,cord,controlled,floor,ipad,market,away,live,guy,wiring,waste,blue,flawlessly,scheduling,compact,standard,outdoor,router,internet,siri,size,big,appliance,night,amazing,10,support,integration,finally,definitely,exactly,ha,issue,absolutely,week,thing,change,word,issue
+free,arrived,plan,local,alexia,configure,expensive,dark,need,samsung,play,garage,space,surge,night,vacation,shipping,area,simply,server,white,buy,block,heater,downstairs,value,plate,year,connecting,signal,koogeek,model,pack,strip,day,quick,le,contacted,group,tech,recommended,apple,better,cheap,technology,ve,got,iphone,business,review
+separate,ha,handy,respond,buy,information,able,walk,code,pairing,amazon,door,ha,protector,charger,apps,special,exactly,friend,possible,electrical,save,turned,coffee,dont,hot,big,inside,wireless,problem,family,gadget,tuya,monitor,come,forward,ordered,terrible,create,got,charm,amazon,rule,real,kid,ha,hooked,tablet,register,updated
+close,slow,ll,battery,problem,number,touch,bed,automation,ge,store,dim,4ghz,bulky,plugged,location,wemos,worked,purchased,guest,installed,user,doe,fantastic,decent,saving,color,lighting,able,need,connects,smaller,wonderful,monitoring,automatically,straight,direction,send,motion,help,needed,sync,amazon,etekcity,scene,bought,able,process,stuck,useless
+electronic,hoping,future,leviton,hs200,manufacturer,trouble,turning,require,level,need,lighting,small,connected,need,junk,pc,eventually,satisfied,regular,box,friendly,push,worked,shut,better,receptacle,bought,ghz,connected,simple,old,cheaper,need,house,additional,step,defective,sensor,try,lazy,job,hardware,problem,alarm,problem,want,doe,check,upgrade
+hand,problem,seller,ha,ha,message,assistant,air,doe,pair,returned,dimming,charging,factor,sleep,iphone,particular,house,high,ended,house,garbage,hold,impressed,town,pump,right,controlling,stay,ha,easily,older,fact,daily,sunrise,ability,downloaded,email,access,went,thank,supposed,software,way,simple,stopped,house,screen,written,constantly
+
+Data size,Topics,no_above,Chunksize,Passes,Iteration
+40000,100,0.9,4000,20,400
+
+Topic 1,Topic 2,Topic 3,Topic 4,Topic 5,Topic 6,Topic 7,Topic 8,Topic 9,Topic 10,Topic 11,Topic 12,Topic 13,Topic 14,Topic 15,Topic 16,Topic 17,Topic 18,Topic 19,Topic 20,Topic 21,Topic 22,Topic 23,Topic 24,Topic 25,Topic 26,Topic 27,Topic 28,Topic 29,Topic 30,Topic 31,Topic 32,Topic 33,Topic 34,Topic 35,Topic 36,Topic 37,Topic 38,Topic 39,Topic 40,Topic 41,Topic 42,Topic 43,Topic 44,Topic 45,Topic 46,Topic 47,Topic 48,Topic 49,Topic 50,Topic 51,Topic 52,Topic 53,Topic 54,Topic 55,Topic 56,Topic 57,Topic 58,Topic 59,Topic 60,Topic 61,Topic 62,Topic 63,Topic 64,Topic 65,Topic 66,Topic 67,Topic 68,Topic 69,Topic 70,Topic 71,Topic 72,Topic 73,Topic 74,Topic 75,Topic 76,Topic 77,Topic 78,Topic 79,Topic 80,Topic 81,Topic 82,Topic 83,Topic 84,Topic 85,Topic 86,Topic 87,Topic 88,Topic 89,Topic 90,Topic 91,Topic 92,Topic 93,Topic 94,Topic 95,Topic 96,Topic 97,Topic 98,Topic 99,Topic 100
+issue,tablet,remote,connected,security,homekit,usb,outside,point,doe,power,allow,wanted,ihome,won,android,single,dot,night,lighting,application,perfect,money,connecting,change,google,link,replaced,hub,socket,power,support,end,good,stuff,small,wink,purchase,buying,bad,led,far,company,design,signal,ve,ifttt,apple,dimmer,long,timer,option,multiple,wireless,block,hour,buy,type,customer,advertised,got,wemo,item,know,outage,deal,case,wi,feature,thing,unit,update,lamp,extremely,download,best,bulb,easier,house,little,minute,network,fine,tried,manual,perfectly,plugged,away,install,plus,awesome,run,button,iphone,wall,instruction,amazon,working,simple,wire
+initially,enabled,access,connection,went,brand,controlled,open,send,exactly,battery,complete,making,immediately,simply,software,forget,bedroom,especially,outdoor,regular,automatically,ordered,direction,hope,ipad,tp,attached,pair,cover,schedule,tech,kitchen,nice,integrate,big,code,flawlessly,quick,wait,blue,recommend,future,added,user,year,rule,place,version,longer,program,6,ok,password,motion,trying,worth,aren,service,range,finally,belkin,christmas,main,wake,figure,technology,fi,energy,lot,tv,firmware,room,helpful,account,idea,order,useful,dark,price,took,connect,mini,returned,fact,needed,large,right,fan,adding,wish,insight,click,location,standard,step,voice,month,life,box
+correctly,concept,number,router,camera,siri,port,garage,server,sunset,watt,picture,pack,directly,ac,available,extra,bed,cell,stand,jinvoo,thank,return,purchasing,disappointed,play,kasa,excited,smartthings,hit,strip,trouble,entire,cool,ease,size,pairing,overall,plan,annoying,color,highly,level,quality,tuya,couple,integration,reach,ability,cord,function,scheduling,group,space,sensor,received,handy,limited,help,impressed,fantastic,ha,tree,need,saving,couldn,liked,drop,cost,feel,wife,review,living,totally,skill,reliably,expensive,compatible,seller,bit,second,reset,hear,worked,matter,remotely,wall,foot,super,monitoring,hard,air,press,electrical,plate,follow,command,week,fast,neutral
+unfortunately,flash,web,internet,downloaded,koogeek,complaint,door,register,sunrise,12,basic,lower,tplink,separate,configuration,installing,getting,kid,ap,daily,town,described,configure,person,interface,forward,dog,wave,designed,happy,unable,located,appliance,difficulty,fit,load,controlling,response,lose,bright,excellent,information,high,figured,old,io,extender,model,properly,schedule,programming,mode,heater,sound,half,probably,nicely,sent,improvement,wasn,better,quickly,fail,machine,soon,likely,connect,usage,people,enjoy,fix,able,rating,smartphone,frequently,mind,life,friend,pretty,le,router,worked,connect,offline,worked,adapter,test,expected,dimming,thanks,gone,push,sync,controller,read,ask,worked,free,wiring
+maybe,appear,site,stay,able,idevices,shut,inside,provide,supposed,amp,special,fault,average,cause,store,replace,tell,thinking,insteon,giving,challenge,save,experience,mean,area,amazing,laptop,automation,plugging,connectivity,hue,wired,job,faster,smaller,scan,pleased,desk,disconnect,screw,definitely,dim,fun,friendly,month,based,hard,older,short,allows,believe,programmed,scheduled,wonderful,absolutely,junk,mentioned,email,worked,office,ssid,operate,reason,safe,ready,guy,connection,monitor,charge,sleep,problem,floor,hold,add,pick,pain,description,come,charging,30,able,impossible,support,operation,yes,moved,10,convenient,capability,cheaper,conditioner,touch,scene,box,4ghz,ip,day,addition,white
+unplugged,login,address,wouldn,kept,electronic,linked,world,screen,porch,equipment,larger,status,particularly,basement,hardware,way,coffee,leave,master,appears,anytime,waste,fairly,previous,surge,straight,choose,paired,waiting,telling,question,cabinet,quality,tip,kind,package,happy,holiday,hoping,total,recommended,given,cheap,built,new,currently,watch,upgrade,extension,ha,current,recognize,7,com,spent,anymore,rate,called,smartplug,husband,setting,lazy,dont,im,bought,including,opened,data,think,problem,reset,dark,tech,need,post,decided,live,able,gadget,20,connects,functional,hour,actually,purpose,stick,apartment,hooked,offer,gift,neo,manually,module,line,setting,able,stopped,apps,install
+unplug,functioning,real,lost,vacation,different,functionality,left,lack,min,receiver,care,biggest,magic,default,switching,saw,morning,rest,weather,unreliable,sun,window,process,result,protector,looking,notice,required,usually,need,initial,table,solid,learn,space,leviton,worked,stated,randomly,replacing,convenience,non,look,eventually,ago,automation,synced,compared,handle,feature,neat,understand,character,reviewer,ghz,gotten,prefer,manufacturer,linking,sale,problem,bought,saying,asked,value,3rd,router,water,want,pot,original,having,savvy,mobile,smooth,ll,automate,family,bulky,slow,constantly,refund,returning,hassle,negative,fall,worked,charm,major,ordering,truly,second,manage,additional,followed,wonderfully,problem,responsive,installation
+fixed,locate,mac,problem,local,reasonable,glad,bathroom,happens,15,bar,story,toggle,smartmonitor,hopefully,loose,video,walk,leaving,1st,photo,suppose,arrived,close,green,assistant,yesterday,x10,ge,second,bought,resetting,stair,intuitive,clicking,second,geeni,satisfied,floor,17,existing,looking,near,intended,compact,bought,nest,hs100,correct,2017,setting,newer,random,24,heat,8,going,bunch,received,mainly,going,router,able,temperature,daylight,2nd,incredibly,project,hot,having,ha,issue,turning,aware,create,inexpensive,need,performance,son,respond,couple,try,clunky,failed,okay,market,bit,distance,hook,bug,upstairs,following,turned,select,fit,band,address,ha,automatic,black
+5g,traveling,daughter,day,remotely,seriously,ha,missing,notification,integrated,draw,remove,physically,printed,tool,entering,knew,maker,icon,hitch,display,count,looked,ended,comment,cable,shape,communicate,need,responding,earlier,updated,fountain,packaging,happier,prong,qr,purchased,enter,sending,position,difficult,100,build,switched,week,trigger,cut,better,consistently,day,positive,evening,considering,activated,changed,electric,nearly,individual,bridge,sure,installed,favorite,answer,according,prime,event,team,electricity,wrong,solved,ha,walk,engineer,discover,adjust,reading,owned,loved,tricky,start,reconnect,choice,try,happen,activate,furniture,40,breeze,doe,bigger,ankuoo,downstairs,household,normal,5ghz,awhile,stop,rename,installed
+sense,tab,write,today,individually,opinion,spot,winter,finish,running,rated,leaf,accessory,configuring,99,feeling,pole,hand,middle,controller,expectation,come,late,expect,0,alexia,purchased,input,samsung,blink,easily,contacted,ft,able,separately,delay,condition,seamlessly,automated,stable,dimmable,haven,avoid,factor,strong,purchased,example,discovered,tan,important,certain,consider,frustrated,change,inch,fully,50,reached,english,testing,able,wemos,responds,operating,60,basically,lutron,caused,state,review,easiest,day,bought,heard,password,wow,relatively,seamless,bought,getting,bought,attempt,fails,replacement,everyday,terrible,pricey,tested,ceiling,feature,tiny,suggestion,electronics,kindle,cover,review,independently,etekcity,kmc,ground
+

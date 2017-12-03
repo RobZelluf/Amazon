@@ -19,7 +19,6 @@ min_words = 5
 
 ## REMOVE WORDS THAT APPEAR IN LESS THAN no_below DOCUMENTS OR MORE THAN no_above % OF THE DOCUMENTS ##
 no_below = 20
-no_above = .1
 
 ## SET EVALUATION ##
 eval_every = 10
@@ -47,30 +46,24 @@ for review in reviews:
 reviews = [[token for token in text if frequency[token] > 1] for text in reviews]
 
 dictionary = corpora.Dictionary(reviews)
-corpora.Dictionary.filter_extremes(dictionary, no_below=no_below, no_above=no_above, keep_tokens=None)
-
-corpus = [dictionary.doc2bow(review) for review in reviews]
-
-corpora.MmCorpus.serialize(name + '.mm', corpus)
-mm = corpora.MmCorpus(name + '.mm') # `mm` document stream now has random access
 
 CS = [2000]
-PS = [5, 10]
-IT = [100, 200]
+PS = [1, 5, 10]
+IT = [100, 200, 400]
 
-DS = [.5] # Data set size used
+DS = [1] # Data set size used
 for i in range(len(DS)):
     DS[i] = int(num_reviews * DS[i])
 
-NT = [10] # Number of topics
-NA = [.5] # Don't take words that appear in >NA documents
+NT = [10, 30, 50] # Number of topics
+NA = [.1, .5, .9] # Don't take words that appear in >NA documents
 
 runs = len(CS) * len(PS) * len(IT) * len(DS) * len(NT) * len(NA)
 
 ex_name = "Passes and iterations"
 results = "explore/results"
 
-ver = 0
+ver = 1
 while True:
     fname = results + str(ver) + ".csv"
     if os.path.exists(fname):
@@ -86,14 +79,19 @@ with open(fname, 'w', newline='', encoding='utf-8') as csv_file:
 with open(fname, 'a', newline='', encoding='utf-8') as csv_file:
     writer = csv.writer(csv_file)
     run = 0
-    for chunksize in CS:
-        for passes in PS:
-            for iterations in IT:
-                for size in DS:
-                    mm_used = mm[:size]
-                    for num_topics in NT:
-                        for no_above in NA:
+    for no_above in NA:
+        corpora.Dictionary.filter_extremes(dictionary, no_below=no_below, no_above=no_above, keep_tokens=None)
+        corpus = [dictionary.doc2bow(review) for review in reviews]
+        corpora.MmCorpus.serialize(name + '.mm', corpus)
+        mm = corpora.MmCorpus(name + '.mm')  # `mm` document stream now has random access
+        for chunksize in CS:
+            for passes in PS:
+                for iterations in IT:
+                    for size in DS:
+                        mm_used = mm[:size]
+                        for num_topics in NT:
                             run += 1
+                            print("Run " + str(run) + " out of " + str(runs))
                             writer.writerows([["Data size", "Topics", "no_above", "Chunksize", "Passes", "Iteration"],
                                               [size, num_topics, no_above, chunksize, passes, iterations],[]])
 
