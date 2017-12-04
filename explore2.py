@@ -58,12 +58,12 @@ while True:
     else:
         break
 
-DS = [1000, 5000, 10000, 20000, 40000]
-NT = [10, 30, 50, 100]
+DS = [40000]
+NT = [30, 100]
 NA = [0.1, 0.5, 0.9]
-CS = [500, 1000, 2000, 4000]
-PS = [1, 5, 10, 20]
-IT = [100, 200, 400]
+CS = [4000]
+PS = [20]
+IT = [400]
 
 runs = len(CS) + len(PS) + len(IT) + len(DS) + len(NT) + len(NA)
 
@@ -73,6 +73,7 @@ with open(fname, 'w', newline='', encoding='utf-8') as csv_file:
                       ["Chunksize", CS], ["Passes", PS], ["Iterations", IT],[]])
 
 def explore(parameters, run):
+    print(parameters)
     no_above = parameters["no_above"]
     chunksize = parameters["chunksize"]
     passes = parameters["passes"]
@@ -109,43 +110,63 @@ def explore(parameters, run):
 
         return run
 
-par_default = {"no_above" : 0.5, "chunksize": 2000, "passes" : 5, "iterations" : 200, "size" : 20000, "num_topics" : 30}
-parameters = par_default
+par_default = {"no_above" : 0.9, "chunksize": 2000, "passes" : 5, "iterations" : 200, "size" : 20000, "num_topics" : 50}
+
+if len(NA) == 1:
+    par_default["no_above"] = NA[0]
+if len(CS) == 1:
+    par_default["chunksize"] = CS[0]
+if len(PS) == 1:
+    par_default["passes"] = PS[0]
+if len(IT) == 1:
+    par_default["iterations"] = IT[0]
+if len(DS) == 1:
+    par_default["size"] = DS[0]
+if len(NT) == 1:
+    par_default["num_topics"] = NT[0]
+
+parameters = par_default.copy()
 
 run = 0
 
-for size in DS:
-    parameters["size"] = size
-    run = explore(parameters, run)
+if len(DS) > 1:
+    for size in DS:
+        parameters["size"] = size
+        run = explore(parameters, run)
 
-parameters = par_default
+    parameters = par_default.copy()
 
-for no_above in NA:
-    parameters["no_above"] = no_above
-    run = explore(parameters, run)
+if len(NA) > 1:
+    for no_above in NA:
+        parameters["no_above"] = no_above
+        run = explore(parameters, run)
 
-parameters = par_default
+    parameters = par_default.copy()
 
-for chunksize in CS:
-    parameters["chunksize"] = chunksize
-    run = explore(parameters, run)
+if len(CS) > 1:
+    for chunksize in CS:
+        parameters["chunksize"] = chunksize
+        run = explore(parameters, run)
 
-parameters = par_default
+    parameters = par_default.copy()
 
-for passes in PS:
-    parameters["passes"] = passes
-    run = explore(parameters, run)
+if len(PS) > 1:
+    for passes in PS:
+        parameters["passes"] = passes
+        run = explore(parameters, run)
 
-parameters = par_default
+    parameters = par_default.copy()
 
-for iterations in IT:
-    parameters["iterations"] = iterations
-    run = explore(parameters, run)
+if len(IT) > 1:
+    for iterations in IT:
+        parameters["iterations"] = iterations
+        run = explore(parameters, run)
 
-parameters = par_default
+    parameters = par_default.copy()
 
-for num_topics in NT:
-    parameters["num_topics"] = num_topics
-    run = explore(parameters, run)
+if len(NT) > 1:
+    for num_topics in NT:
+        parameters["num_topics"] = num_topics
+        run = explore(parameters, run)
 
 
