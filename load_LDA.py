@@ -5,7 +5,7 @@ import pandas as pd
 
 DIR = "LDAs/"
 data_set = "smartplugs1130-merged-lemmatized"
-model_type = "nt50cz2000-2"
+model_type = "nt100na0.1-1"
 model = data_set + model_type
 lda = LdaModel.load(DIR + model)
 

@@ -7,13 +7,17 @@ from gensim.models import LdaModel
 import logging
 import os
 from gensim.parsing.preprocessing import STOPWORDS
+stopwords = ["1", "2", "3", "4", "5", "star", "stars"]
+alphabet = list("abcdefghijklmnopqrstuvwxyz")
+stopwords.extend(alphabet)
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
 ## NUMBER OF TOPICS ##
-num_topics = 10
 
-chunksize = 2000
+num_topics = 100
+
+chunksize = 4000
 passes = 20
 iterations = 400
 
@@ -40,7 +44,7 @@ for document in reviews:
     if type(document) == float:
         reviews.remove(document)
 
-reviews = [[word for word in document.lower().split() if word not in STOPWORDS] for document in reviews if len(document) > min_words]
+reviews = [[word for word in document.lower().split() if (word not in STOPWORDS and word not in stopwords)] for document in reviews if len(document) > min_words]
 
 frequency = defaultdict(int)
 for review in reviews:
@@ -61,7 +65,7 @@ lda = LdaModel(mm, num_topics=num_topics, chunksize=chunksize, id2word=dictionar
 
 pprint(lda.print_topics(num_topics=-1, num_words = 10))
 
-model_name = "LDAs/" + name + "nt" + str(num_topics) + "cz" + str(chunksize)
+model_name = "LDAs/" + name + "nt" + str(num_topics) + "na" + str(no_above)
 
 ver = 1
 while True:
